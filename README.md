@@ -10,8 +10,8 @@
 ⚡ Fun fact: I love cats 😼.
 
 ## Skills
-- **Programming Languages:** [Python, C, Dart, Javascript]
-- **Tools & Technologies:** [VScode , Atmel studio , proteus , ]
+- **Programming Languages:** [Python, C, C++, Dart, Javascript]
+- **Tools & Technologies:** [VScode , Atmel studio , proteus , Eclipse]
 - **Soft Skills:** [team leadership, communication, problem-solving, Well studied decisions]
 
 ## Education
