@@ -54,4 +54,4 @@ Cairo University — *Graduated 2025*
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHamed001&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHamed001&show_icons=true&theme=radical&cache_seconds=86400)
