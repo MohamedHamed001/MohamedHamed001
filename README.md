@@ -1,25 +1,57 @@
-# Hello, I'm Mohmed Hamed👋
+# Hello, I'm Mohamed Hamed 👋
 
 ## About Me
-🎓 I am a senior Biomedical Engineering student at Cairo University, set to graduate in 2025.  
-🔬 I'm passionate about leveraging engineering principles to solve complex medical and healthcare problems.  
-💻 I'm currently exploring my options in this huge field and all its branches   
-🌱 Currently, I'm learning [Embedded systems , AI in healthcare , Image processing and Computer vision , HCIS development].    
-🤔 I’m looking for help with deciding which career path is the best and future proof!.  
-📫 How to reach me: [Mohamed.Hamed01@eng-st.cu.edu.eg]  
-⚡ Fun fact: I love cats 😼.
+🎓 I am a Biomedical Engineering graduate from Cairo University (Class of 2025).  
+🔬 Passionate about applying engineering and AI to solve real-world healthcare challenges.  
+💻 Currently focused on building intelligent, scalable applications that integrate AI into healthcare and everyday systems.  
+
+🚀 **Current Focus Areas:**
+- AI Integration into Mobile & Web Applications  
+- Full-Stack Development (Web & Mobile)  
+- AI in Healthcare & Medical Systems  
+- Intelligent Systems & Automation  
+
+⚡ Fun fact: I love cats 😼  
+
+---
 
 ## Skills
-- **Programming Languages:** [Python, C, C++, Dart, Javascript]
-- **Tools & Technologies:** [VScode , Atmel studio , proteus , Eclipse]
-- **Soft Skills:** [team leadership, communication, problem-solving, Well studied decisions]
+
+### 💻 Programming Languages
+- Python
+- Dart 
+- C / C++   
+- JavaScript  
+
+### 🛠 Tools & Technologies
+- **AI & Machine Learning:** Reinforcement Learning, Neural Networks  
+- **Backend Development:** FastAPI, REST APIs, MySQL  
+- **Mobile & Frontend:** Flutter  
+- **System Modeling & Simulation:** MATLAB, Simulink, Simglucose  
+- **Software Engineering:** API Design, Domain-Driven Design (DDD)  
+- **Version Control:** Git, GitHub
+
+### 🧠 Core Strengths
+- Problem Solving  
+- Analytical Thinking  
+- Team Leadership  
+- Communication  
+- Decision Making  
+
+---
 
 ## Education
-- **BSc in Biomedical Engineering, Cairo University** (Expected 2025)
+🎓 **BSc in Biomedical Engineering**  
+Cairo University — *Graduated 2025*
+
+---
 
 ## Connect with Me
-- **LinkedIn:** [(https://www.linkedin.com/in/mohamed-hamed-535930239)]
-- **GitHub:** [(https://github.com/MohamedHamed001)]
-- **Gmail:** [mohamed.hamed01@eng-st.cu.edu.eg]
+- 📧 Email: Mohamed.a.hamed001@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-hamed-535930239  
+- 💻 GitHub: https://github.com/MohamedHamed001  
 
+---
+
+## 📊 GitHub Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHamed001&show_icons=true&theme=radical)
